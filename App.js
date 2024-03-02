@@ -4,7 +4,7 @@ import Funcomp from "./Funcomp";
 import FuncProps from "./FuncProps";
 import "./Apps.css"
  
-
+ // comment added
  function App() {
 
   return (
