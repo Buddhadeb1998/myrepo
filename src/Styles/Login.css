@@ -1,0 +1,59 @@
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+.main-div {
+      display: flex;    
+    background-image: url("https://wallpapers.com/images/hd/hd-food-background-o0zjnbjpmbpougwv.jpg");  
+    height: 651px; 
+    width: 100%;
+      justify-content: center;   
+    align-items: center; 
+   background-position: center;
+  background-size: cover; 
+  position: sticky;
+
+ 
+} 
+.cont {   
+  height: 300px; 
+  width: 500px;
+  box-shadow: 10px 10px 10px 10px rgba(10, 0, 0, 0.603);
+  padding: 25px;
+  margin: 15px;
+  justify-content: center;
+  border-radius: 20px;
+  opacity: 0.9;
+} 
+  #input {
+  height: 30px;
+  width: 300px;
+  margin: 10px;
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 10px;
+  
+} 
+ .btnn {
+  text-align: center;
+  margin-left: 10px;
+  margin-top: 15px;
+} 
+   .btn-login {
+  height: 30px;
+  width: 90px;
+   background-color: white;
+   opacity: 0.6;
+   color: red;
+  border-radius: 5px;
+  border:none;
+  
+  
+   
+} 
+  tr {
+  color: black;
+  font-size: large; 
+}  
